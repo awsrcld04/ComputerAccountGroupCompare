@@ -340,9 +340,7 @@ namespace ComputerAccountGroupCompare
         {
             try
             {
-                Construct.ProgramRegistryTag("ComputerAccountGroupCompare");
-
-                funcCompareGroups(objCMDArguments2);               
+                  funcCompareGroups(objCMDArguments2);               
             }
             catch (Exception ex)
             {
