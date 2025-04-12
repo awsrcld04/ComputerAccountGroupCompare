@@ -27,7 +27,7 @@ namespace ComputerAccountGroupCompare
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("ComputerAccountGroupCompare (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("ComputerAccountGroupCompare");
             Console.WriteLine();
             Console.WriteLine("Parameter syntax:");
             Console.WriteLine();
